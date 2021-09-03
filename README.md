@@ -1,11 +1,6 @@
 # mobile-public
 
-more things
-helloooo
-hsfklshdfsf
-
-
-
+more 
 
 
 
