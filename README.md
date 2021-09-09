@@ -1,8 +1,3 @@
 # mobile-public
 
-more 
-
-
-
-
 hi
